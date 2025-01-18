@@ -1,0 +1,49 @@
+{
+  "videojuegos": [
+    {
+      "Titulo": "The Legend of Zelda: Breath of the Wild",
+      "precio": 59.99,
+      "imagen": "/img/zelda.jpg"
+    },
+    {
+      "Titulo": "Elden Ring",
+      "precio": 69.99,
+      "imagen": "https://pbs.twimg.com/media/GepENH6XIAA5jCq?format=jpg&name=4096x4096"
+    },
+    {
+      "Titulo": "Super Mario Odyssey",
+      "precio": 49.99,
+      "imagen": "https://supermario.nintendo.com/assets/icons/share_icon.jpg"
+    },
+    {
+      "Titulo": "God of War: Ragnarök",
+      "precio": 69.99,
+      "imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/aqZdSwWyy9JcQ66BxHDKrky6.jpg"
+    },
+    {
+      "Titulo": "Minecraft",
+      "precio": 19.99,
+      "imagen": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_Minecraft_image1600w.jpg"
+    },
+    {
+      "Titulo": "Hollow Knight",
+      "precio": 14.99,
+      "imagen": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_download_software_5/H2x1_WiiUDS_HollowKnight_image1600w.jpg"
+    },
+    {
+      "Titulo": "Red Dead Redemption 2",
+      "precio": 59.99,
+      "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/10/red-dead-redemption-2_0.jpg?tf=3840x"
+    },
+    {
+      "Titulo": "Stardew Valley",
+      "precio": 14.99,
+      "imagen": "/img/zelda.jpg"
+    },
+    {
+      "Titulo": "The Witcher 3: Wild Hunt",
+      "precio": 39.99,
+      "imagen": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S1_2560x1440-82eb5cf8f725e329d3194920c0c0b64f"
+    }
+  ]
+}

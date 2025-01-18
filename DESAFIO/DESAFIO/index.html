@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es"></html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafío Frontend</title>
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Press+Start+2P&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="cabecera">
+        <div ><img src="./img/corazon.png" alt="corazon" class="logo"></div>
+        <h1> Alura Geek</h1>
+    </div>
+    </header>
+    <section>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2>Mis Productos</h2>
+                <div class="tarjetas" data-lista>
+                
+            </div>
+            </div>
+            <div class="col ">
+                <form class="formulario" data-formulario> <h2>Agregar Producto</h2>
+                    <label for="input1" id="titulo"></label>
+                    <input type="text" id="titulo" name="titulo" placeholder="titulo..." class="input" data-titulo>
+                    <br>
+                    <label for="input2"></label>
+                    <input type="number" id="numero" name="precio" placeholder="precio..." class="input" data-precio>
+                    <br>
+                    <label for="input3" class="archivos"></label>
+                    <input id="archivo" name="archivo" placeholder="inserta la url de la imagen" class="input"   data-imagen>
+
+
+                    <br><div class="botones">
+                    <button type="submit" class="boton">Submit</button>
+                    <button type="reset" class="boton2">Reset</button></div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+    <footer><img class="logo" src="./img/corazon.png" alt="corazon"> <h3>Irguing Frautes</h3></footer>
+</main>
+
+<script type="module" src="./JS/mostrarJuegos.js"></script>
+<script type="module" src="./JS/crearJuego.js"></script>
+
+</body>
+</html>
